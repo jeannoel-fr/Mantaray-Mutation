@@ -1,7 +1,7 @@
 # Mantaray-Mutation
 First version of Mantaray Keyboard.
 
-
+![Image](https://github.com/user-attachments/assets/0b1a3595-376a-4ccc-9fb7-681293300747)
 
 I love the design and ergonomy of the <a href="https://github.com/davidphilipbarr/Sweep/"> Ferris Sweep </a>. However, I often use graphical software - it means I often have a mouse in the right hand, and use the keyboard to trigger shortcuts. 
 
